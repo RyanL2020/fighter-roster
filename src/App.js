@@ -1,10 +1,7 @@
+import NavigationBar from "./NavigationBar";
 
 function App() {
-  return (
-    <div >
-      Hello!!!!!!!!
-    </div>
-  );
+  return <NavigationBar />
 }
 
 export default App;
